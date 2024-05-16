@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixthomas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="felixthomas-dev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fx_billz" target="blank"><img src="https://img.shields.io/twitter/follow/fx_billz?logo=twitter&style=for-the-badge" alt="fx_billz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fx_billz" target="blank"><img src="https://img.shields.io/twitter/follow/a1diga?logo=twitter&style=for-the-badge" alt="fx_billz" /></a> </p>
 
 - 🔭 I’m currently Studying at **University of salford (MSc)**
 
