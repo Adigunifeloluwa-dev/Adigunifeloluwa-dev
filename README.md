@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Machine Learning,Data Mining,Advanced Database and Database Management, Big data tool and techniques, Natural Language Processing, Tableau, SQL, Microsoft office, Databricks, Apache Spark, python, AzureML, powerBi**
 
-- 📫 How to reach me **thomasfelix007@gmail.com**
+- 📫 How to reach me **adigun.ifeloluwa@gmail.com**
 
 - ⚡ Fun fact **I am a multifaceted individual with a rich set of interests. I find joy and fulfillment in a diverse range of activities.**
 
